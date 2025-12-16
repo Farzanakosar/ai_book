@@ -1,0 +1,54 @@
+graph TB
+    subgraph "Isaac Sim Environment"
+        A[Isaac Sim Core] --> B[USD Stage Manager]
+        A --> C[Physics Engine]
+        A --> D[Renderer]
+        A --> E[Simulation Engine]
+    end
+
+    subgraph "Sensors & Perception"
+        F[RGB Camera] --> G[Image Capture]
+        H[Depth Sensor] --> I[Depth Data]
+        J[LiDAR] --> K[Point Cloud]
+        L[IMU] --> M[Inertial Data]
+    end
+
+    subgraph "ROS 2 Integration"
+        N[ROS Bridge] --> O[Topic Publishers]
+        N --> P[Service Servers]
+        N --> Q[Action Clients]
+    end
+
+    subgraph "Data Generation"
+        R[Annotation Engine] --> S[2D Bounding Boxes]
+        R --> T[3D Bounding Boxes]
+        R --> U[Segmentation Masks]
+        R --> V[Keypoint Labels]
+    end
+
+    subgraph "External Systems"
+        W[Robot Models] --> A
+        X[Environment Assets] --> A
+        Y[Control Systems] --> N
+        Z[AI Training Pipeline] --> R
+    end
+
+    B --> F
+    B --> H
+    B --> J
+    B --> L
+    C --> E
+    D --> G
+    D --> I
+    D --> K
+    G --> S
+    I --> T
+    K --> T
+    V --> Z
+    S --> Z
+    T --> Z
+    U --> Z
+
+    style A fill:#e1f5fe
+    style N fill:#f3e5f5
+    style R fill:#e8f5e8

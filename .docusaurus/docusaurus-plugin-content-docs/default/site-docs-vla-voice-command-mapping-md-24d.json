@@ -1,0 +1,24 @@
+{
+  "id": "vla/voice-command-mapping",
+  "title": "Voice Command Mapping Guide",
+  "description": "Overview",
+  "source": "@site/docs/vla/voice-command-mapping.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/voice-command-mapping",
+  "permalink": "/docs/vla/voice-command-mapping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/voice-command-mapping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OpenAI Whisper Integration Guide",
+    "permalink": "/docs/vla/whisper-integration"
+  },
+  "next": {
+    "title": "Latency and Accuracy Considerations in Voice-to-Action Systems",
+    "permalink": "/docs/vla/latency-accuracy"
+  }
+}

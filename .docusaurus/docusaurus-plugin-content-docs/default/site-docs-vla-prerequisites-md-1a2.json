@@ -1,0 +1,24 @@
+{
+  "id": "vla/prerequisites",
+  "title": "Voice-to-Action Prerequisites Guide",
+  "description": "Overview",
+  "source": "@site/docs/vla/prerequisites.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/prerequisites",
+  "permalink": "/docs/vla/prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/prerequisites.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Voice-to-Action Pipelines",
+    "permalink": "/docs/vla/introduction"
+  },
+  "next": {
+    "title": "OpenAI Whisper Integration Guide",
+    "permalink": "/docs/vla/whisper-integration"
+  }
+}

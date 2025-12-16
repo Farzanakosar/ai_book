@@ -1,0 +1,24 @@
+{
+  "id": "module1/solutions/exercise2_solution",
+  "title": "Exercise 2 Solution: Create a subscriber that listens to a custom topic",
+  "description": "Problem Statement",
+  "source": "@site/docs/module1/solutions/exercise2_solution.md",
+  "sourceDirName": "module1/solutions",
+  "slug": "/module1/solutions/exercise2_solution",
+  "permalink": "/docs/module1/solutions/exercise2_solution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module1/solutions/exercise2_solution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exercise 1 Solution: Create a simple publisher node",
+    "permalink": "/docs/module1/solutions/exercise1_solution"
+  },
+  "next": {
+    "title": "Exercise 3 Solution: Create a parameterized node",
+    "permalink": "/docs/module1/solutions/exercise3_solution"
+  }
+}

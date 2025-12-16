@@ -1,0 +1,24 @@
+{
+  "id": "vla/whisper-integration",
+  "title": "OpenAI Whisper Integration Guide",
+  "description": "Overview",
+  "source": "@site/docs/vla/whisper-integration.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/whisper-integration",
+  "permalink": "/docs/vla/whisper-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/whisper-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice-to-Action Prerequisites Guide",
+    "permalink": "/docs/vla/prerequisites"
+  },
+  "next": {
+    "title": "Voice Command Mapping Guide",
+    "permalink": "/docs/vla/voice-command-mapping"
+  }
+}

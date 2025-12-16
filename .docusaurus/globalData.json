@@ -1,0 +1,193 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/exercises",
+              "path": "/docs/isaac-sim/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/introduction",
+              "path": "/docs/isaac-sim/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/performance",
+              "path": "/docs/isaac-sim/performance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/prerequisites",
+              "path": "/docs/isaac-sim/prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/setup",
+              "path": "/docs/isaac-sim/setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/synthetic-data-generation",
+              "path": "/docs/isaac-sim/synthetic-data-generation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/test-report",
+              "path": "/docs/isaac-sim/test-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/troubleshooting",
+              "path": "/docs/isaac-sim/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/validation-checklist",
+              "path": "/docs/isaac-sim/validation-checklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "isaac-sim/workflows",
+              "path": "/docs/isaac-sim/workflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/python-ros-control",
+              "path": "/docs/module1/python-ros-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/ros2-core-concepts",
+              "path": "/docs/module1/ros2-core-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/solutions/exercise1_solution",
+              "path": "/docs/module1/solutions/exercise1_solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/solutions/exercise2_solution",
+              "path": "/docs/module1/solutions/exercise2_solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/solutions/exercise3_solution",
+              "path": "/docs/module1/solutions/exercise3_solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/solutions/exercise4_solution",
+              "path": "/docs/module1/solutions/exercise4_solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/solutions/exercise5_solution",
+              "path": "/docs/module1/solutions/exercise5_solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/solutions/exercise6_solution",
+              "path": "/docs/module1/solutions/exercise6_solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1/urdf-humanoids",
+              "path": "/docs/module1/urdf-humanoids",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/gazebo-physics-simulation",
+              "path": "/docs/module2/gazebo-physics-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/sensor-simulation",
+              "path": "/docs/module2/sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/solutions/sensor_simulation_exercise_solutions",
+              "path": "/docs/module2/solutions/sensor_simulation_exercise_solutions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module2/unity-rendering-hri",
+              "path": "/docs/module2/unity-rendering-hri",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/exercises",
+              "path": "/docs/vla/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/introduction",
+              "path": "/docs/vla/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/latency-accuracy",
+              "path": "/docs/vla/latency-accuracy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/performance",
+              "path": "/docs/vla/performance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/prerequisites",
+              "path": "/docs/vla/prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/troubleshooting",
+              "path": "/docs/vla/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/validation-report",
+              "path": "/docs/vla/validation-report",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/voice-command-mapping",
+              "path": "/docs/vla/voice-command-mapping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "vla/whisper-integration",
+              "path": "/docs/vla/whisper-integration",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

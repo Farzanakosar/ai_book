@@ -1,0 +1,46 @@
+graph TD
+    A[Robot] --> B[Link 1]
+    A --> C[Link 2]
+    A --> D[Link 3]
+
+    B --> E[Visual]
+    B --> F[Collision]
+    B --> G[Inertial]
+
+    C --> H[Visual]
+    C --> I[Collision]
+    C --> J[Inertial]
+
+    D --> K[Visual]
+    D --> L[Collision]
+    D --> M[Inertial]
+
+    N[Joint 1] --> O[Parent: Link 1]
+    N --> P[Child: Link 2]
+    N --> Q[Type: Revolute/Fixed/etc]
+
+    R[Joint 2] --> S[Parent: Link 2]
+    R --> T[Child: Link 3]
+    R --> U[Type: Revolute/Fixed/etc]
+
+    subgraph "Robot Structure"
+        A
+        B
+        C
+        D
+        N
+        R
+    end
+
+    subgraph "Link Components"
+        E
+        F
+        G
+    end
+
+    style A fill:#e1f5fe
+    style B fill:#f3e5f5
+    style C fill:#f3e5f5
+    style D fill:#f3e5f5
+    style N fill:#fff3e0
+    style R fill:#fff3e0

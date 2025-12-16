@@ -1,0 +1,24 @@
+{
+  "id": "isaac-sim/synthetic-data-generation",
+  "title": "Isaac Sim Synthetic Data Generation",
+  "description": "Overview",
+  "source": "@site/docs/isaac-sim/synthetic-data-generation.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/synthetic-data-generation",
+  "permalink": "/docs/isaac-sim/synthetic-data-generation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac-sim/synthetic-data-generation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim Workflows",
+    "permalink": "/docs/isaac-sim/workflows"
+  },
+  "next": {
+    "title": "Isaac Sim Performance Optimization",
+    "permalink": "/docs/isaac-sim/performance"
+  }
+}

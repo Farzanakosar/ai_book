@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkros2_book=globalThis.webpackChunkros2_book||[]).push([[634],{192(o,s,t){t.r(s),t.d(s,{default:()=>i});t(6540);var n=t(7559),r=t(4586),c=t(4848);const i=function(){const{siteConfig:o}=(0,r.A)();return(0,c.jsx)(n.rd,{to:"/docs/intro"})}}}]);

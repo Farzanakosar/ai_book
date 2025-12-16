@@ -1,0 +1,8 @@
+{
+  "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn physics simulation in Gazebo, high-fidelity rendering in Unity, and sensor simulation for robotics."
+  }
+}

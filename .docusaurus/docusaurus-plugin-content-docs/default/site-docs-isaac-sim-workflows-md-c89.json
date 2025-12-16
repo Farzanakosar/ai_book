@@ -1,0 +1,24 @@
+{
+  "id": "isaac-sim/workflows",
+  "title": "Isaac Sim Workflows",
+  "description": "Overview",
+  "source": "@site/docs/isaac-sim/workflows.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/workflows",
+  "permalink": "/docs/isaac-sim/workflows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac-sim/workflows.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim Setup Guide",
+    "permalink": "/docs/isaac-sim/setup"
+  },
+  "next": {
+    "title": "Isaac Sim Synthetic Data Generation",
+    "permalink": "/docs/isaac-sim/synthetic-data-generation"
+  }
+}

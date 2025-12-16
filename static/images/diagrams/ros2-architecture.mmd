@@ -1,0 +1,20 @@
+graph LR
+    A[Node A] -->|Publish| B((Topic))
+    C[Node B] -->|Subscribe| B
+    B -->|Messages| C
+    D[Node C] -->|Request| E(Service)
+    E -->|Response| D
+
+    subgraph "ROS 2 Architecture"
+        A
+        B
+        C
+        D
+        E
+    end
+
+    style A fill:#e1f5fe
+    style C fill:#e1f5fe
+    style D fill:#e1f5fe
+    style B fill:#f3e5f5
+    style E fill:#fff3e0

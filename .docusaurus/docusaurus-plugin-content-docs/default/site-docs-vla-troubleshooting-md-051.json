@@ -1,0 +1,24 @@
+{
+  "id": "vla/troubleshooting",
+  "title": "Voice-to-Action Troubleshooting Guide",
+  "description": "Overview",
+  "source": "@site/docs/vla/troubleshooting.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/troubleshooting",
+  "permalink": "/docs/vla/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Latency and Accuracy Considerations in Voice-to-Action Systems",
+    "permalink": "/docs/vla/latency-accuracy"
+  },
+  "next": {
+    "title": "Voice Recognition Performance Optimization Guide",
+    "permalink": "/docs/vla/performance"
+  }
+}

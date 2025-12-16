@@ -1,0 +1,50 @@
+graph LR
+    A[Real World Scene] --> B[Virtual Scene Creation]
+    B --> C[Asset Import & Configuration]
+    C --> D[Sensor Setup]
+    D --> E[Domain Randomization]
+    E --> F[Physics Simulation]
+    F --> G[Data Capture]
+    G --> H[Annotation Generation]
+    H --> I[Data Processing]
+    I --> J[Format Conversion]
+    J --> K[Dataset Export]
+    K --> L[AI Model Training]
+
+    M[Environment Parameters] --> E
+    N[Lighting Conditions] --> E
+    O[Material Properties] --> E
+    P[Object Placement] --> E
+
+    Q[Camera Sensors] --> G
+    R[LiDAR Sensors] --> G
+    S[IMU Sensors] --> G
+
+    T[RGB Images] --> H
+    U[Depth Maps] --> H
+    V[Point Clouds] --> H
+
+    W[2D Bounding Boxes] --> I
+    X[3D Bounding Boxes] --> I
+    Y[Segmentation Masks] --> I
+    Z[Keypoint Labels] --> I
+
+    B -.-> M
+    B -.-> N
+    B -.-> O
+    C -.-> P
+    D -.-> Q
+    D -.-> R
+    D -.-> S
+    G -.-> T
+    G -.-> U
+    G -.-> V
+    H -.-> W
+    H -.-> X
+    H -.-> Y
+    H -.-> Z
+
+    style A fill:#ffebee
+    style L fill:#e8f5e8
+    style E fill:#fff3e0
+    style H fill:#e3f2fd

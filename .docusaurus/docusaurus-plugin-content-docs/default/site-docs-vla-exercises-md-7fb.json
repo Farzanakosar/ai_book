@@ -1,0 +1,24 @@
+{
+  "id": "vla/exercises",
+  "title": "Voice-to-Action Exercises",
+  "description": "Exercise 1: Basic Voice Command Recognition",
+  "source": "@site/docs/vla/exercises.md",
+  "sourceDirName": "vla",
+  "slug": "/vla/exercises",
+  "permalink": "/docs/vla/exercises",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vla/exercises.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Voice Recognition Performance Optimization Guide",
+    "permalink": "/docs/vla/performance"
+  },
+  "next": {
+    "title": "Validation of User Story 1 Content Against OpenAI Documentation Standards",
+    "permalink": "/docs/vla/validation-report"
+  }
+}

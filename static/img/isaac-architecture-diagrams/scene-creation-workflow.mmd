@@ -1,0 +1,25 @@
+flowchart TD
+    A[Start: New Scene Creation] --> B[Define Scene Requirements]
+    B --> C[Select Environment Template]
+    C --> D[Import Robot Model]
+    D --> E[Configure Physics Properties]
+    E --> F[Add Sensors to Robot]
+    F --> G[Set Up Lighting Conditions]
+    G --> H[Place Objects in Environment]
+    H --> I[Configure Material Properties]
+    I --> J[Validate Scene Setup]
+    J --> K{Scene Valid?}
+    K -->|No| L[Troubleshoot Issues]
+    L --> J
+    K -->|Yes| M[Test Basic Functionality]
+    M --> N{Functionality OK?}
+    N -->|No| O[Adjust Parameters]
+    O --> M
+    N -->|Yes| P[Save Scene Configuration]
+    P --> Q[Document Scene Setup]
+    Q --> R[Scene Ready for Use]
+
+    style A fill:#e1f5fe
+    style R fill:#e8f5e8
+    style K fill:#fff3e0
+    style N fill:#fff3e0

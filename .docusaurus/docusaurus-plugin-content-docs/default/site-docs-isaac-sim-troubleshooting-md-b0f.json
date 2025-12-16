@@ -1,0 +1,24 @@
+{
+  "id": "isaac-sim/troubleshooting",
+  "title": "Isaac Sim Troubleshooting Guide",
+  "description": "Common Issues and Solutions",
+  "source": "@site/docs/isaac-sim/troubleshooting.md",
+  "sourceDirName": "isaac-sim",
+  "slug": "/isaac-sim/troubleshooting",
+  "permalink": "/docs/isaac-sim/troubleshooting",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/isaac-sim/troubleshooting.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Isaac Sim Performance Optimization",
+    "permalink": "/docs/isaac-sim/performance"
+  },
+  "next": {
+    "title": "Isaac Sim Setup Instructions Test Report",
+    "permalink": "/docs/isaac-sim/test-report"
+  }
+}

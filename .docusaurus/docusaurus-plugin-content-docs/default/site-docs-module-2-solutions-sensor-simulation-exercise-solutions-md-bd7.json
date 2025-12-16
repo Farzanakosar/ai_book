@@ -1,0 +1,24 @@
+{
+  "id": "module2/solutions/sensor_simulation_exercise_solutions",
+  "title": "Sensor Simulation Exercise Solutions",
+  "description": "Exercise 1 Solution: LiDAR Configuration",
+  "source": "@site/docs/module2/solutions/sensor_simulation_exercise_solutions.md",
+  "sourceDirName": "module2/solutions",
+  "slug": "/module2/solutions/sensor_simulation_exercise_solutions",
+  "permalink": "/docs/module2/solutions/sensor_simulation_exercise_solutions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/module2/solutions/sensor_simulation_exercise_solutions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unity High-Fidelity Rendering & Human-Robot Interaction",
+    "permalink": "/docs/module2/unity-rendering-hri"
+  },
+  "next": {
+    "title": "Isaac Sim Introduction",
+    "permalink": "/docs/isaac-sim/introduction"
+  }
+}
