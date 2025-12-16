@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "docusaurus start",
-    "build": "npx docusaurus build",
+    "build": "docusaurus build --ignore-existing",
     "serve": "docusaurus serve"
   },
   "dependencies": {
