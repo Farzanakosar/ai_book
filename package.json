@@ -3,15 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-  "docusaurus": "docusaurus",
-  "start": "npx docusaurus start",
-  "build": "npx docusaurus build",
-  "serve": "npx docusaurus serve",
-  "clear": "npx docusaurus clear"
-},
+    "start": "docusaurus start",
+    "build": "npx docusaurus build",
+    "serve": "docusaurus serve"
+  },
   "dependencies": {
-    "@docusaurus/core": "^3.9.2",
-    "@docusaurus/preset-classic": "^3.9.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "prism-react-renderer": "^2.3.0",
@@ -19,7 +15,9 @@
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@docusaurus/core": "^3.9.2",
     "@docusaurus/module-type-aliases": "3.1.0",
+    "@docusaurus/preset-classic": "^3.9.2",
     "@docusaurus/types": "3.1.0"
   },
   "browserslist": {
@@ -35,6 +33,6 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": "18.x"
   }
 }
