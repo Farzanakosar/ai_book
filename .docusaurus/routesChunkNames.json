@@ -1,154 +1,197 @@
 {
-  "/docs-20a": {
-    "__comp": "5e95c892",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-20a": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
     }
   },
   "/docs-3e9": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
   },
   "/docs-29e": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/intro-61d": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/isaac-sim/exercises-158": {
-    "__comp": "17896441",
-    "content": "73a45765"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-exercises-73-a-013"
   },
   "/docs/isaac-sim/introduction-b1a": {
-    "__comp": "17896441",
-    "content": "33966907"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-introduction-339-8c3"
   },
   "/docs/isaac-sim/performance-882": {
-    "__comp": "17896441",
-    "content": "ee42ee69"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-performanceee-4-2aa"
   },
   "/docs/isaac-sim/prerequisites-dc4": {
-    "__comp": "17896441",
-    "content": "202f9de7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-prerequisites-202-a36"
   },
   "/docs/isaac-sim/setup-1ce": {
-    "__comp": "17896441",
-    "content": "c7ba56d7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-setupc-7-b-261"
   },
   "/docs/isaac-sim/synthetic-data-generation-c8d": {
-    "__comp": "17896441",
-    "content": "701d1a31"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-synthetic-data-generation-701-ffe"
   },
   "/docs/isaac-sim/test-report-15f": {
-    "__comp": "17896441",
-    "content": "d250990f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-test-reportd-25-4ee"
   },
   "/docs/isaac-sim/troubleshooting-0af": {
-    "__comp": "17896441",
-    "content": "b0fa7e80"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-troubleshootingb-0-f-cb8"
   },
   "/docs/isaac-sim/validation-checklist-da9": {
-    "__comp": "17896441",
-    "content": "2ea24a61"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-validation-checklist-2-ea-3a3"
   },
   "/docs/isaac-sim/workflows-d77": {
-    "__comp": "17896441",
-    "content": "c891e17f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-isaac-sim-workflowsc-89-55d"
   },
   "/docs/module1/python-ros-control-6ff": {
-    "__comp": "17896441",
-    "content": "c640057b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-python-ros-controlc-64-ddc"
   },
   "/docs/module1/ros2-core-concepts-2bc": {
-    "__comp": "17896441",
-    "content": "9d5f4c93"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-ros-2-core-concepts-9-d-5-af2"
   },
   "/docs/module1/solutions/exercise1_solution-a7d": {
-    "__comp": "17896441",
-    "content": "78435ff3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-solutions-exercise-1-solution-784-bd4"
   },
   "/docs/module1/solutions/exercise2_solution-c9c": {
-    "__comp": "17896441",
-    "content": "242788a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-solutions-exercise-2-solution-242-abf"
   },
   "/docs/module1/solutions/exercise3_solution-786": {
-    "__comp": "17896441",
-    "content": "8c1063c1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-solutions-exercise-3-solution-8-c-1-82d"
   },
   "/docs/module1/solutions/exercise4_solution-981": {
-    "__comp": "17896441",
-    "content": "9ce39a9a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-solutions-exercise-4-solution-9-ce-538"
   },
   "/docs/module1/solutions/exercise5_solution-dfc": {
-    "__comp": "17896441",
-    "content": "f1589387"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-solutions-exercise-5-solutionf-15-527"
   },
   "/docs/module1/solutions/exercise6_solution-303": {
-    "__comp": "17896441",
-    "content": "08ed85b3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-solutions-exercise-6-solution-08-e-54f"
   },
   "/docs/module1/urdf-humanoids-958": {
-    "__comp": "17896441",
-    "content": "be24a902"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-urdf-humanoidsbe-2-9be"
   },
   "/docs/module2/gazebo-physics-simulation-4f8": {
-    "__comp": "17896441",
-    "content": "6808e832"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-gazebo-physics-simulation-680-74f"
   },
   "/docs/module2/sensor-simulation-793": {
-    "__comp": "17896441",
-    "content": "f08bc385"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-sensor-simulationf-08-2a6"
   },
   "/docs/module2/solutions/sensor_simulation_exercise_solutions-6f4": {
-    "__comp": "17896441",
-    "content": "bd798a51"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-solutions-sensor-simulation-exercise-solutionsbd-7-c8e"
   },
   "/docs/module2/unity-rendering-hri-683": {
-    "__comp": "17896441",
-    "content": "3dae6979"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-unity-rendering-hri-3-da-0fc"
   },
   "/docs/vla/exercises-13e": {
-    "__comp": "17896441",
-    "content": "7fb858a6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-exercises-7-fb-25e"
   },
   "/docs/vla/introduction-bef": {
-    "__comp": "17896441",
-    "content": "d05fc765"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-introductiond-05-0af"
   },
   "/docs/vla/latency-accuracy-fdd": {
-    "__comp": "17896441",
-    "content": "2f627877"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-latency-accuracy-2-f-6-842"
   },
   "/docs/vla/performance-c70": {
-    "__comp": "17896441",
-    "content": "821f0645"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-performance-821-dcd"
   },
   "/docs/vla/prerequisites-bb2": {
-    "__comp": "17896441",
-    "content": "1a2340a1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-prerequisites-1-a-2-7c0"
   },
   "/docs/vla/troubleshooting-748": {
-    "__comp": "17896441",
-    "content": "0513c7c7"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-troubleshooting-051-858"
   },
   "/docs/vla/validation-report-af3": {
-    "__comp": "17896441",
-    "content": "85ff348e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-validation-report-85-f-d5b"
   },
   "/docs/vla/voice-command-mapping-ac8": {
-    "__comp": "17896441",
-    "content": "24d2f33a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-voice-command-mapping-24-d-db3"
   },
   "/docs/vla/whisper-integration-644": {
-    "__comp": "17896441",
-    "content": "4c28b3bd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-vla-whisper-integration-4-c-2-74f"
   },
   "/-2e1": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---a-74-9d6"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }
